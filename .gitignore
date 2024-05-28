@@ -1,0 +1,13 @@
+# Ignore files specific to Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Ignore files related to VS Code
+.vscode/
+
+# Ignore files related to Jetbrains products
+.idea/
+*.iml
